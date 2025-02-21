@@ -12,7 +12,7 @@
 This project features a state-of-the-art 🩺 **medical chatbot** that leverages AI and semantic search technologies to provide **real-time medical consultations**. Built with **Hugging Face’s T5 model** fine-tuned on medical data and integrated with the **Ollama model**, the chatbot can process up to **5 queries per minute** with high accuracy and contextual relevance.
 
 🖼️ **Screenshot**:  
-![Screenshot](https://github.com/user-attachments/assets/f5fbfb78-242e-4e61-babd-9d92979d85b8)
+![Screenshot]([https://github.com/user-attachments/assets/f5fbfb78-242e-4e61-babd-9d92979d85b8](https://github.com/JSBundela/Medical-Chatbot-ollama/blob/main/412796154-f5fbfb78-242e-4e61-babd-9d92979d85b8.png))
 
 ---
 
